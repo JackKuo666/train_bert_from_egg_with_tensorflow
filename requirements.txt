@@ -1,0 +1,5 @@
+# tensorflow-gpu  >= 2.5.0  # GPU version of TensorFlow.
+tensorflow >= 2.5.0   # CPU Version of TensorFlow.
+gin-config==0.1.1
+tensorflow_hub
+tensorflow_addons
